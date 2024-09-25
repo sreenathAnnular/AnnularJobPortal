@@ -8,9 +8,9 @@ const Signin = () => {
     <div>
       <Navbar />
       <div className='flex w-full h-screen'>
-        <div className='w-1/2  flex flex-col justify-center items-start p-10 ml-10'>
+        <div className='w-1/2  flex flex-col justify-center items-start p-10 ml-10 '>
         <div className='flex justify-between w-[80%] mb-4'>
-            <div></div> {/* Empty div to take up space on the left */}
+            <div></div>
             <p>
               Not a member? 
               <a href="#" className="text-blue-700 underline hover:underline" style={{ color: '#0d6efd' }}> sign up now</a>
